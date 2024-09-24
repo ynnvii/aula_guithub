@@ -1,0 +1,43 @@
+.section{
+    width: 400px;
+    margin: auto;
+    border-width: 1px;
+    border-style: solid;
+    border-color: black;
+    display: flex;
+    flex-direction: row-reverse }
+.item{
+    background-color: tomato;
+    font-size: 32px;
+    margin: 5px;
+    text-align: center;
+    width: ;
+    
+
+}
+.menu{
+    background-color: rgb(221, 66, 66);
+    
+}
+.lista{
+    color: white;
+    display: flex;
+
+   
+    
+}
+.container{
+    width: 300px;
+    margin: auto;
+    display: flex;
+    border: 1px solid orange;
+    flex-wrap: wrap;
+}
+.matheus{
+    max-width: 420px;
+    margin: auto;
+    border: 1px solid orange;
+    display: flex;
+    justify-content: space-between
+
+}

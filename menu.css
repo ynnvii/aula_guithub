@@ -1,0 +1,15 @@
+.menu1{
+    background-color: grey;
+    color: white;
+   
+}
+.lista1{
+    list-style-type: none;
+    display: flex;
+    justify-content: space-around;
+    width: 800px;
+    margin: auto;
+    height: 50px;
+    align-items: center;
+    
+}
